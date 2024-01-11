@@ -25,7 +25,11 @@ Note Taker is a simple web application that allows users to write and save notes
 * Clear Form: Clear the note entry form by clicking the "Clear Form" button.
 
 ## Images of site
+![Landing Page](image.png)
+![Alt text](image-1.png)
 
+## Link to live site on Heroku
+https://express-notes-takers-998af2a3d024.herokuapp.com
 
 ## License
 This project is under the MIT License
